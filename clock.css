@@ -31,7 +31,7 @@ background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-2
 background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     /* height: 250em; */
-    width: 32rem;
+    width: 35rem;
     height: 12rem;
     font-size: 4rem;
     box-shadow: 1rem 1rem 1rem #2C5364;
